@@ -29,4 +29,3 @@ function iLoveTheBeatles(num) {
   return empty
 }
 
-console.log(iLoveTheBeatles(13))
