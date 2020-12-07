@@ -5,7 +5,7 @@ var instruments = ['guitar', 'drums', 'bass']
 
 function theBeatlesPlay (muscians, instruments) {
   for (let m = 0; m < muscians.length; m++) {
-    bands.push(`${muscians[m]} plays ${instruments[m]}.`})
+    bands.push(`${muscians[m]} plays ${instruments[m]}.`)
   }
   return bands
 }
