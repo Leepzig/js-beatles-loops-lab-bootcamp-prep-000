@@ -10,5 +10,5 @@ function theBeatlesPlay (muscians, instruments) {
   return bands
 }
 
-console.log(theBeatlesPlay(muscians, instruments))
+
 
