@@ -20,6 +20,9 @@ function johnLennonFacts(arr) {
   return arr
 }
 
+function iLoveTheBeatles(num) {
+  empty = []
+  do (empty.push("I love the Beatles!") num++)
+}
 
-
-console.log(johnLennonFacts(muscians))
+console.log(iLoveTheBeatles(5))
