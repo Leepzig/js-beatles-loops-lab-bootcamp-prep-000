@@ -20,4 +20,6 @@ function johnLennonFacts(arr) {
   return arr
 }
 
+
+
 console.log(johnLennonFacts(muscians))
