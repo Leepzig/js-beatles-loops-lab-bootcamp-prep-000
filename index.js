@@ -1,5 +1,5 @@
 // add solution here
-bands = []
+var bands = []
 var muscians = ['John', 'Ringo', 'Jimmy']
 var instruments = ['guitar', 'drums', 'bass']
 
