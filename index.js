@@ -25,7 +25,8 @@ function iLoveTheBeatles(num) {
   do {
     empty.push("I love the Beatles!") 
     num++
-  }
+  } while (num < 15)
+  return empty
 }
 
-console.log(iLoveTheBeatles(5))
+console.log(iLoveTheBeatles(13))
