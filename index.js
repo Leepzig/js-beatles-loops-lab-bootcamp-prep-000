@@ -1,13 +1,14 @@
 // add solution here
+bands = []
 var muscians = ['John', 'Ringo', 'Jimmy']
-var strings = ['guitar', 'drums', 'bass']
+var instruments = ['guitar', 'drums', 'bass']
 
 function theBeatlesPlay (muscians, instruments) {
   for (let m = 0; m < muscians.length; m++) {
-    
+    bands.push(`${muscians[m]} plays ${instruments[m]}.`})
   }
+  return bands
 }
 
+console.log(theBeatlesPlay(muscians, instruments))
 
-
-arr.push(`${muscians[m]} plays ${instruments[i]}.`})
