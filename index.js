@@ -3,7 +3,7 @@
 var strings = []
 
 function theBeatlesPlay (muscians, instruments) {
-  for (let m = 0; 
+  for (let m = 0; m < muscians.length()
 }
 
 
